@@ -1,4 +1,6 @@
-public class zad1dzielenie {
+package ty;
+
+public class qwer {
 
     public static void main(String[] args) {
         int a = 7;
